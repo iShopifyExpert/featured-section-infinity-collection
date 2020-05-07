@@ -1,1 +1,1 @@
-# featured-section-infinity-collection
+# Shopify featured-section-infinity-collection
